@@ -1,0 +1,24 @@
+D:\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+D:\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+D:\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+D:\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.AssemblyReference.cache
+D:\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.SuggestedBindingRedirects.cache
+D:\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Crecs.resources
+D:\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+D:\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+D:\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+D:\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
+D:\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Cimg2.resources
+D:\my c# .net proj\final project\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+D:\my c# .net proj\final project\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+D:\my c# .net proj\final project\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+D:\my c# .net proj\final project\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.AssemblyReference.cache
+D:\my c# .net proj\final project\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.SuggestedBindingRedirects.cache
+D:\my c# .net proj\final project\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Crecs.resources
+D:\my c# .net proj\final project\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Cimg2.resources
+D:\my c# .net proj\final project\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+D:\my c# .net proj\final project\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+D:\my c# .net proj\final project\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+D:\my c# .net proj\final project\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+D:\my c# .net proj\final project\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
